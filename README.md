@@ -1,4 +1,4 @@
-# AWS MFA Login in Ppowershell
+# AWS MFA Login in Powershell
 For logging in with MFA credentials in powershell
 
 ## Usage
